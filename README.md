@@ -5,7 +5,7 @@
 
 **SHELL COMMANDS USING PARAMETER**
 
-https://demo.com/PARAMETER_SHELL.php?cmd=ls
+demo.com/PARAMETER_SHELL.php?cmd=ls
 
 ****
 
